@@ -242,3 +242,6 @@ This repository serves as the official landing page for Dungeons and Dragons Onl
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Dungeons and Dragons Online today!**
+
+---
+**Last updated:** 2026-09-07 19:47:57 UTC
