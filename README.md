@@ -244,4 +244,4 @@ This repository serves as the official landing page for Dungeons and Dragons Onl
 **Get the most recent version of Dungeons and Dragons Online today!**
 
 ---
-**Last updated:** 2026-10-31 21:18:34 UTC
+**Last updated:** 2026-11-01 00:52:59 UTC
